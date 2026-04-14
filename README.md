@@ -3,7 +3,7 @@
 
 **Proyecto:** Reto frontend — prueba técnica para Riwi
 
-**Descripción corta**
+**Descripción**
 
 Nexcent es una landing page de demostración creada como respuesta al reto técnico de frontend para Riwi. Es una página estática (HTML/CSS) que muestra un diseño de hero, sección de clientes, secciones de producto/comunidad, y un área de demo. El objetivo fue construir una interfaz responsiva, alineada con buenas prácticas semánticas y accesibilidad básica.
 
@@ -15,10 +15,9 @@ Nexcent es una landing page de demostración creada como respuesta al reto técn
 
 ## Capturas
 
-Las imágenes están en `assets/images/`. Aquí hay algunas rutas de ejemplo usadas en la demo:
-
-- `assets/images/Illustration.png` — Ilustración del hero
-- `assets/images/Logo-*.png` — Logos de clientes y marcas
+<img width="1077" height="927" alt="nexcent1" src="https://github.com/user-attachments/assets/10038520-f3b3-414a-b61a-b90af33ce224" />
+<img width="1067" height="867" alt="nexcent2" src="https://github.com/user-attachments/assets/cd813db2-6cf7-4170-805c-96525c61c342" />
+<img width="1077" height="926" alt="nexcent3" src="https://github.com/user-attachments/assets/156caeb6-5656-4bb0-a962-f702f6f07a33" />
 
 Puedes abrir el proyecto y ver las pantallas en diferentes tamaños (mobile/tablet/desktop).
 
@@ -44,14 +43,8 @@ cd path/to/nexcent
 python3 -m http.server 8000
 # Abrir http://localhost:8000 en tu navegador
 ```
-
 Esto evita problemas con rutas relativas en algunos navegadores.
 
-## Notas y mejoras posibles
-
-- Imágenes de ejemplo y algunos logos son marcadores; sustituir por assets finales si se dispone de ellos.
-- Mejorar la experiencia de teclado y focus states para una accesibilidad completa.
-- Añadir pruebas visuales (screenshots automáticos) y optimizaciones de rendimiento (lazy-loading de imágenes, compress).
 
 ## Estado conocido
 
@@ -59,48 +52,10 @@ Esto evita problemas con rutas relativas en algunos navegadores.
 
 ## Autor y créditos
 
-Reto técnico para Riwi — implementado por el/la autor(a) del repositorio. Añade tu nombre y contacto aquí.
+Reto técnico para Riwi - 2025
 
----
-
-Si quieres que convierta este README en inglés, añada una demo en video real o incluya capturas de pantalla dentro del README, dímelo y lo agrego.
-This project is a landing page inspired by the Figma Nexcent mockup. It includes:
-
-- Header with navigation and main hero.
-
-- Sections with CSS Grid layouts (text + illustrations)
-- Footer with columns of links
-
-Technologies
-- HTML5
-- CSS3 (Grid + Flexbox)
-- Google Fonts
-
-Project structure:
-/ (root)
-├─ index.html 
-├─ styles.css 
-├─ README.md 
-└─ assets/ 
-    └─ images/
-      └─ footer/ 
-
-
-How to run:
-Download or clone the project.
-
-Open index.html in your browser.
-
-Recommended: Use VS Code with the Live Server extension for automatic page reload.
-
-Notes
-Images and patterns are loaded from the assets/images and assets/images/footer folders.
-
-Coder Information:
-Full Name: Natalia Vargas Osorio
-Clan: Hamilton
+Natalia Vargas Osorio
 Email: nataliav0517@gmail.com
-ID: 1017259440
 
 
 
